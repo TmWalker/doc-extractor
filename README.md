@@ -9,10 +9,15 @@ Pipeline uses:
 
 ### Install Guide
 
-Install python dependencies
+```
+Install and activate requirements for this system
 ```
 pip install -r requirements.txt
 ```
+```
+venv\Scripts\activate
+```
+
 
 Download and install Ollama
 https://ollama.com/download
@@ -40,14 +45,6 @@ Verify Installation
 
 ```
 tesseract --version
-```
-Install and activate requirements for this system
-```
-pip install -r requirements.txt
-```
-```
-venv\Scripts\activate
-```
 
 ### Run Guide
 
