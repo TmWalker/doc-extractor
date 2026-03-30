@@ -41,9 +41,12 @@ Verify Installation
 ```
 tesseract --version
 ```
-Install requirements for this system
+Install and activate requirements for this system
 ```
 pip install -r requirements.txt
+```
+```
+venv\Scripts\activate
 ```
 
 ### Run Guide
