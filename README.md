@@ -10,14 +10,7 @@ Pipeline uses:
 ### Install Guide
 
 
-Install and activate requirements for this system
-```
-pip install -r requirements.txt
-```
-
-```
-venv\Scripts\activate
-```
+Install and activate requirements for this system contained in requirements.txt
 
 
 Download and install Ollama
