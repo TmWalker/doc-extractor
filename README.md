@@ -32,7 +32,9 @@ Install Tesseract OCR
 
 https://github.com/UB-Mannheim/tesseract/wiki
 
-Note the location of the install and add this to run_path in config.cfg
+Note the location of the install
+
+Add the tesseract.exe file path to run_path in config.cfg
 
 Verify Installation 
 
