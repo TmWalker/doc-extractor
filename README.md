@@ -14,6 +14,7 @@ Install and activate requirements for this system
 ```
 pip install -r requirements.txt
 ```
+
 ```
 venv\Scripts\activate
 ```
