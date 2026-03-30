@@ -41,6 +41,10 @@ Verify Installation
 ```
 tesseract --version
 ```
+Install requirements for this system
+```
+pip install -r requirements.txt
+```
 
 ### Run Guide
 
