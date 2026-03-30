@@ -23,7 +23,7 @@ ollama --version
 
 Download the model used in this program
 
-```'
+```
 ollama pull mistral
 ```
 
@@ -39,6 +39,7 @@ Verify Installation
 
 ```
 tesseract --version
+```
 
 ### Run Guide
 
