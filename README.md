@@ -13,3 +13,17 @@ Install python dependencies
 ```
 pip install -r requirements.txt
 ```
+
+Download and install Ollama
+https://ollama.com/download
+
+Verify installation 
+```
+ollama --version
+```
+
+Download the model used in this program
+
+'''
+ollama pull mistral
+'''
