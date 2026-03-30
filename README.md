@@ -24,6 +24,34 @@ ollama --version
 
 Download the model used in this program
 
-'''
+```'
 ollama pull mistral
-'''
+```
+
+Install Tesseract OCR
+
+https://github.com/UB-Mannheim/tesseract/wiki
+
+Note the location of the install and add this to run_path in config.cfg
+
+Verify Installation 
+
+```
+tesseract --version
+```
+
+### Run Guide
+
+Details can be extracted from a pdf using the command
+
+```
+python -m src.doc_extract "path\to\file"  
+```
+
+Run the Streamlit app using
+
+```
+streamlit run app.py
+```
+This allows you to Upload a pdf and extract details
+
